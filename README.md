@@ -1,3 +1,4 @@
+# MinION_pipeline
 ***
 setup_date 20190604
 
@@ -17,4 +18,3 @@ quast.sh
 1. genome asseble asseement tool QUAST 
 Usage : qusat.sh input.file output.file option
 Requirement : time log, 
-# MinION_pipeline
